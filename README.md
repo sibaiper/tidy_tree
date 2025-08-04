@@ -1,7 +1,8 @@
 # Tidy Tree: Header-only Tidy Tree Layout
 
-A modern, C++20 header-only library implementing the “Drawing Non-layered Tidy Trees in Linear Time” algorithm by A. J. van der Ploeg.  Compute neat, non-overlapping 2D layouts for any tree-like data structure that satisfies a minimal node concept.
+A modern, C++20 header-only library implementing the “Drawing Non-layered Tidy Trees in Linear Time” algorithm by A. J. van der Ploeg.  Compute neat, non-overlapping 2D layouts for any tree-like data structure that satisfies a minimal node concept.  
 
+![a tree structure](https://github.com/sibaiper/tidy_tree/blob/main/tree.png)
 
 ---
 
